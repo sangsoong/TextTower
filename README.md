@@ -5,7 +5,7 @@ This game is made for portfolios.
 ※ Game Process
 Please run 'TextTower.py' file.
 You can proceed by entering the letters in the square brackets.
-The main gole of the game is to reach the final floor.
+The main goal of the game is to reach the final floor.
 
 ※ Notice
 The game is not complete.
